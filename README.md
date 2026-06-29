@@ -70,4 +70,4 @@ Telegram выступает не только как мессенджер, но 
 
 Вся информация предоставляется «как есть» и служит исключительно для повышения уровня цифровой грамотности и понимания угроз приватности.
 
-[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/probiv_i_OSINT_instrumenti)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
